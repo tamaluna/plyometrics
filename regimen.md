@@ -11,7 +11,7 @@
 *Goal: Build a baseline, introduce single-leg power, and prepare the nervous system.*
 
 ### Wednesday (Day 1)
-*   **Warm-Up:**  (4 Minutes)
+*   **Warm-Up**  (4 Minutes)
 *Perform each exercise continuously for **30 seconds**.*
     *   Jog in place
     *   High knees
@@ -21,7 +21,7 @@
     *   Arm circles
     *   Bodyweight squats
     *   Light skips
-*   **Main Workout  (14 Minutes)
+*   **Main Workout**  (14 Minutes)
 *Complete **2 rounds** total. Follow a structural pattern of **40 seconds of work** followed by **20 seconds of rest** for each movement.*
     *   **Squat Jumps**
     *   **Lateral Line Hops**
@@ -30,7 +30,7 @@
     *   **Broad Jumps** *(with a light walk back to start)*
     *   **Split Jump Lunges**
     *   **Fast Mountain Climbers**
-*   **Cool-Down:** (2 Minutes)
+*   **Cool-Down** (2 Minutes)
 *Hold each static stretch for **20 to 30 seconds** to lower your heart rate.*
     *   Hamstring stretch
     *   Quad stretch
