@@ -75,7 +75,7 @@
 ---
 
 ## 📅 Week 2: Basketball Camp Supplement Week
-*Goal: Maintain power without overloading joints. Upper body and core work balance lower-body camp stimulus. All supplemental workouts are brief (10–12 mins) and completed before camp as a primer, or after camp as recovery work.*
+*Goal: Maintain power without overloading joints. Upper body and core work balance lower-body camp stimulus. All supplemental workouts are brief (10–12 mins) and completed before camp as a primer, or after for recovery.*
 
 ### Monday - Pre-Camp CNS Primer
 *Do this right before camp to activate the nervous system for explosive speed.*
@@ -116,7 +116,16 @@
 
 ### Saturday - Upper Body & Core Strength
 *No lower-body plyometrics. Focus on building shoulder and core stability while lower body recovers from camp.*
-*   **Warm-Up:** Standard 4-minute dynamic warm-up.
+*   **Warm-Up (4 Minutes - Upper Body & Core Focus)**
+*Perform each exercise continuously for **30 seconds**.*
+    *   Arm circles (forward and backward)
+    *   Band pull-aparts (shoulder mobility and activation)
+    *   Cat-cow stretches (thoracic spine mobility)
+    *   Quadruped shoulder taps (core stability)
+    *   Dead bugs (slow and controlled)
+    *   Scapular push-ups (wall or elevated - focus on shoulder blade retraction)
+    *   Glute bridges (hip activation with core engagement)
+    *   Light torso rotations (mobility and core warm-up)
 *   **Main Workout (2 Rounds - 8-10 repetitions each):**
     *   Dumbbell Bench Press (Controlled tempo, light-to-moderate weight)
     *   Band Pull-Aparts (Shoulder stability, 15 reps)
