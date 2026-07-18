@@ -75,7 +75,7 @@
 ---
 
 ## 📅 Week 2: Basketball Camp Supplement Week
-*Goal: Maintain power without overloading joints. Upper body and core work balance lower-body camp stimulus. All supplemental workouts are brief (10–12 mins) and completed before camp as a primer, or 4+ hours after camp concludes.*
+*Goal: Maintain power without overloading joints. Upper body and core work balance lower-body camp stimulus. All supplemental workouts are brief (10–12 mins) and completed before camp as a primer, or after camp as recovery work.*
 
 ### Monday - Pre-Camp CNS Primer
 *Do this right before camp to activate the nervous system for explosive speed.*
@@ -114,11 +114,16 @@
 ### Friday - Camp Wrap-Up Rest
 *   **Activity:** No supplemental workouts. Allow them to finish the final day of camp safely.
 
-### Saturday - Performance Test Day
-*Re-introduce the baseline lower-body workout to assess power retention after camp week.*
+### Saturday - Upper Body & Core Strength
+*No lower-body plyometrics. Focus on building shoulder and core stability while lower body recovers from camp.*
 *   **Warm-Up:** Standard 4-minute dynamic warm-up.
-*   **Main Workout:** Run the exact **Day 1 Baseline Workout** (plyometric focus).
-*   **Cool-Down:** Standard 2-minute stretch routine.
+*   **Main Workout (2 Rounds - 8-10 repetitions each):**
+    *   Dumbbell Bench Press (Controlled tempo, light-to-moderate weight)
+    *   Band Pull-Aparts (Shoulder stability, 15 reps)
+    *   Plank Rows (Renegade rows with light dumbbells - 6 reps per side)
+    *   Dead Bugs (Core control, slow and controlled - 10 per side)
+    *   Dumbbell Shoulder Press (Light weight, explosive up - 8 reps)
+*   **Cool-Down:** Standard 2-minute stretch routine (focus on shoulders and chest).
 
 ### Sunday - Rest & Recovery
 *   **Activity:** Complete rest. 
