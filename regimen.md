@@ -3,7 +3,7 @@
 ## 📌 Phase Overview
 *   **Objective:** Maximize explosive burst, vertical jump, and injury resilience.
 *   **Safety Rule:** Quality over quantity. Every jump must be 100% maximal effort with perfect landing mechanics (soft knees, quiet feet, hips back).
-*   **Equipment:** Dumbbells (DB), improvised stable box/porch step (12–18 inches).
+*   **Equipment:** Dumbbells (DB), improvised stable box/porch step (12–18 inches), resistance bands (optional).
 
 ---
 
@@ -75,7 +75,7 @@
 ---
 
 ## 📅 Week 2: Basketball Camp Supplement Week
-*Goal: Maintain power without overloading joints. Workouts are brief (10 mins) and completed **before** camp as a primer, or 4+ hours **after** camp concludes.*
+*Goal: Maintain power without overloading joints. Upper body and core work balance lower-body camp stimulus. All supplemental workouts are brief (10–12 mins) and completed before camp as a primer, or 4+ hours after camp concludes.*
 
 ### Monday - Pre-Camp CNS Primer
 *Do this right before camp to activate the nervous system for explosive speed.*
@@ -86,36 +86,59 @@
     *   3 Max-Effort Broad Jumps (Full rest between jumps)
 *   **Cool-Down:** Handled by the camp's natural progression.
 
-### Tuesday - Post-Camp Strength & Armor
-*No jumping today. Focus on protecting the knees and ankles from camp fatigue.*
+### Tuesday - Post-Camp Upper Body & Core Focus
+*No lower-body plyometrics today. Build shoulder stability and shooting mechanics while protecting knees from camp fatigue.*
 *   **Timing:** At least 2 hours after camp ends.
-*   **Main Workout (2 Rounds - 10-12 repetitions each):**
-    *   Dumbbell Goblet Squats (Slow, deep, controlled)
-    *   Calf Raises (Holding dumbbells, 3-second hold at the top)
+*   **Main Workout (3 Rounds - 10-12 repetitions each):**
+    *   Dumbbell Rows (Slow and controlled, focus on scapular retraction)
     *   Plank Rows (Renegade rows with light dumbbells)
-    *   Single-Leg Glute Bridges
-*   **Cool-Down:** Comprehensive 5-minute lower body stretching.
+    *   Push-ups (Standard or incline, full range of motion)
+    *   Pallof Press (Anti-rotation core, light resistance band or light dumbbell - 8 reps per side)
+    *   Glute Bridges (Slow 3-second hold at top)
+*   **Cool-Down:** Comprehensive 3-minute upper body and hip stretching.
 
 ### Wednesday - Mid-Week Unloading (Rest)
 *   **Activity:** No supplemental workouts. The 4-hour camp session is the entire workload. Focus heavily on hydration and sleep.
 
-### Thursday - Power & Deceleration
-*Maintaining vertical pop while tired.*
-*   **Timing:** Evening, well after camp.
-*   **Main Workout (2 Rounds - 30s work, 30s rest for high quality):**
-    *   Box Jumps (Focus on explosive hip extension)
-    *   Skater Jumps (Focus on stopping/sticking the landing cleanly)
-    *   Fast Mountain Climbers
-*   **Cool-Down:** Standard 2-minute stretch routine.
+### Thursday - Upper Body & Core (Evening)
+*Maintaining upper body and core strength while the lower body recovers from camp.*
+*   **Timing:** Evening, well after camp (or next morning if needed).
+*   **Main Workout (2 Rounds - 8-10 repetitions each):**
+    *   Dumbbell Bench Press (Controlled tempo, light-to-moderate weight)
+    *   Band Pull-Aparts (Shoulder stability, 15 reps)
+    *   Dead Bugs (Core control, slow and controlled - 10 per side)
+    *   Side Planks (Hold for 20-30 seconds per side)
+    *   Dumbbell Shoulder Press (Light weight, explosive up - 8 reps)
+*   **Cool-Down:** Standard 2-minute stretch routine (focus on shoulders and chest).
 
 ### Friday - Camp Wrap-Up Rest
 *   **Activity:** No supplemental workouts. Allow them to finish the final day of camp safely.
 
 ### Saturday - Performance Test Day
-*Re-introduce the baseline workout to see how they perform after camp week.*
+*Re-introduce the baseline lower-body workout to assess power retention after camp week.*
 *   **Warm-Up:** Standard 4-minute dynamic warm-up.
-*   **Main Workout:** Run the exact **Day 1 Baseline Workout**.
+*   **Main Workout:** Run the exact **Day 1 Baseline Workout** (plyometric focus).
 *   **Cool-Down:** Standard 2-minute stretch routine.
 
 ### Sunday - Rest & Recovery
 *   **Activity:** Complete rest. 
+
+---
+
+## 📋 Upper Body & Core Movement Glossary (for Week 2 workouts)
+
+**Dumbbell Rows:** Single-arm or bilateral, chest to the bench, elbow high and back. Full range of motion.
+
+**Plank Rows:** In a plank position, row one dumbbell up to ribs while stabilizing. Alternate sides.
+
+**Push-ups:** Standard form with elbows at ~45° angle to body. Full range of motion (chest near floor).
+
+**Pallof Press:** Holding a light dumbbell or band at chest, press forward against rotation. Maintain a neutral spine.
+
+**Dead Bugs:** Lying on back, extend opposite arm and leg while lowering the other. Controlled and deliberate.
+
+**Side Planks:** Hold on forearm and outer foot (or knee if needed). Maintain a straight line from head to toe.
+
+**Dumbbell Shoulder Press:** Seated or standing, press dumbbells overhead with control. Avoid excessive arching.
+
+**Band Pull-Aparts:** Arms extended at shoulder height, pull a resistance band apart. Excellent for shoulder health.
